@@ -30,7 +30,7 @@ jobs:
             echo "Début du déploiement"
             echo "======================================"
 
-            cd /var/www/TP6-R314
+            cd /var/www/TP6_R314
 
             echo "Mise à jour du code..."
             git pull origin
